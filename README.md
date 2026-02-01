@@ -44,5 +44,3 @@ Il dataset è stato pulito e normalizzato tramite:
 - **Distribuzione Linguistica:** La maggior parte dei pronomi rilevati è di natura neutra.  
 - **Sentiment Generale:** I tweet analizzati presentano una connotazione tendenzialmente negativa, evidenziando un clima di dibattito teso o critico attorno alle tematiche trattate.
 
-
-ati presentano una connotazione tendenzialmente negativa, evidenziando un clima di dibattito teso o critico attorno alle tematiche trattate.
