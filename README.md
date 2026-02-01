@@ -6,7 +6,7 @@ Analisi Linguistica: Verificare l'uso dei pronomi (neutri vs di genere) per comp
 
 Analisi del Sentiment: Determinare la connotazione emotiva generale (positiva o negativa) dei tweet raccolti utilizzando tecniche di embedding e similarità vettoriale.
 
-Metodologia e Workflow
+##Metodologia e Workflow##
 1. Pre-processing dei Dati
 Il dataset è stato pulito e normalizzato per l'analisi:
 
